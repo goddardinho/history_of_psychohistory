@@ -5,16 +5,12 @@ This project presents detailed fictional timelines for Isaac Asimov's science fi
 
 ## Contents
 
-- **psychohistory-timeline.md**: A narrative timeline of major events in Asimov's universe, organized by era, with source references and Amazon links.
-- **swimlane-timeline.md**: A tabular swimlane timeline showing parallel developments in the Robot, Empire, and Foundation eras, with source references and Amazon links.
-- **swimlane-timeline-literal.md**: A literal-date swimlane timeline for cross-referencing fictional and real-world chronology, with source references and Amazon links.
-- **asimov-timeline.md**: A publication and internal chronology of Asimov's major works, with Amazon links for each title.
-- **CHANGELOG.md**: Project changelog and release notes.
-- **LICENSE**: Creative Commons CC0 1.0 Universal (public domain dedication).
+- **world-settlement-locations.md**: Reference guide to major worlds, settlements, and planetary locations in Asimov's universe. [See Worlds & Locations](./world-settlement-locations.md)
+- **key-characters.md**: List of major and recurring characters across the Robot, Empire, and Foundation eras. [See Key Characters](./key-characters.md)
 
-## Usage
+These timelines and reference files are intended for fans, researchers, and educators interested in the chronology, worlds, and characters of Asimov's universe. All book references are linked to Amazon for convenient access.
 
-These timelines are intended for fans, researchers, and educators interested in the chronology and structure of Asimov's universe. All book references are linked to Amazon for convenient access.
+For world details, see [World Settlement & Locations](./world-settlement-locations.md). For character details, see [Key Characters](./key-characters.md).
 
 ## Contributing
 
