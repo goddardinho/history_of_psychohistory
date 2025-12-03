@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.3.1] - 2025-12-03
+
+- Updated `world-settlement-locations.md`:
+- Added Tau Ceti as the star system for Aurora (from fan sources, not canon).
+- Noted Aurora's original name (New Earth), meaning of "Aurora," and capital city Eon.
+- Clarified population and status as Spacer capital.
+
+## [v0.3.0] - 2025-12-03
+
+- Added `world-settlement-locations.md` for world/planetary reference.
+- Added `key-characters.md` for major and recurring character reference.
+- Updated README with new files and cross-links.
+
 ## [v0.2.0] - 2025-12-03
 
 - Added Amazon purchase links to all Asimov book references in all timeline files.
