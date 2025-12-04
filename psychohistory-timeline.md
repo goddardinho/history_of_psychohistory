@@ -34,7 +34,6 @@
 
 ## Foundation Era
 
-
 - **24488 C.E. (11988 G.E.)** Birth of Hari Seldon & Cleon I. **Source:** [*Prelude to Foundation* (1988)](https://www.amazon.com/dp/0553278398), [*Forward the Foundation* (1993)](https://www.amazon.com/dp/0553565079)
 - **24500–24570 C.E.** Dors Venabili and Yugo Amaryl active. *Speculative summary for character context.*
 - **24510 C.E. (12010 G.E.)** Cleon I becomes Emperor. **Source:** [*Prelude to Foundation* (1988)](https://www.amazon.com/dp/0553278398)
