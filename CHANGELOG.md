@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v1.0.0] - 2025-12-04
+
+- *Major release version 1.0.0!*
+
 ## [v0.3.3] - 2025-12-04
 
 - Updated `key-characters.md`, `psychohistory-timeline.md`, and `world-settlement-locations.md` for: consistent use of full names and titles for all key characters (e.g., Elijah Baley, Dr. Han Fastolfe, R. Daneel Olivaw, Dr. Kelden Amadiro, R. Giskard Reventlov, etc.)
