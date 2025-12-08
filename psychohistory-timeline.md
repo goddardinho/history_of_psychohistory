@@ -13,13 +13,14 @@
 - **2064 C.E. (2064 C.E.)** Death of Susan Calvin; colonization begins. **Source:** [*I, Robot* (1950)](https://www.amazon.com/dp/055338256X), [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
 - **3200-25066 C.E.** R. Daneel Olivaw active. *Speculative summary for character context.*
 - **3200 C.E. (3200 C.E.)** Solaria settled; R. Daneel Olivaw created. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
+- **3459 C.E. (3459 C.E.)** Elijah Baley born (inferred). **Source:** [*The Naked Sun* (1957)](https://www.amazon.com/dp/0553293397)
 - **3500–3700 C.E.** R. Giskard Reventlov active; destroyed c. 3700 C.E.; Dr. Han Fastolfe active; dies 3700 C.E.; Dr. Kelden Amadiro active. *Speculative summary for character context.*
-**3500 C.E. (3500 C.E.)** R. Daneel Olivaw & Elijah Baley solve crime. **Source:** [*The Caves of Steel* (1954)](https://www.amazon.com/dp/0553293400)
-**3501 C.E. (3501 C.E.)** Elijah Baley & R. Daneel Olivaw investigate on Solaria. **Source:** [*The Naked Sun* (1957)](https://www.amazon.com/dp/0553293397)
-**3503 C.E. (3503 C.E.)** Elijah Baley, R. Daneel Olivaw, R. Giskard Reventlov on Aurora. **Source:** [*The Robots of Dawn* (1983)](https://www.amazon.com/dp/0553381660)
-**3537 C.E. (3537 C.E.)** Death of Elijah Baley. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
-**3697 C.E. (3697 C.E.)** Dr. Kelden Amadiro plants nuclear amplifiers. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
-**3700 C.E. (3700 C.E.)** Death of Dr. Han Fastolfe; Zeroth Law; Earth made radioactive; Diaspora begins. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
+- **3500 C.E. (3500 C.E.)** R. Daneel Olivaw & Elijah Baley solve crime. **Source:** [*The Caves of Steel* (1954)](https://www.amazon.com/dp/0553293400)
+- **3501 C.E. (3501 C.E.)** Elijah Baley & R. Daneel Olivaw investigate on Solaria. **Source:** [*The Naked Sun* (1957)](https://www.amazon.com/dp/0553293397)
+- **3503 C.E. (3503 C.E.)** Elijah Baley, R. Daneel Olivaw, R. Giskard Reventlov on Aurora. **Source:** [*The Robots of Dawn* (1983)](https://www.amazon.com/dp/0553381660)
+- **3537 C.E. (3537 C.E.)** Death of Elijah Baley. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
+- **3697 C.E. (3697 C.E.)** Dr. Kelden Amadiro plants nuclear amplifiers. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
+- **3700 C.E. (3700 C.E.)** Death of Dr. Han Fastolfe; Zeroth Law; Earth made radioactive; Diaspora begins. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
 - **3700 C.E. (3700 C.E.)** Death of Fastolfe; Zeroth Law; Earth made radioactive; Diaspora begins. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
 
 ## Empire Era

@@ -5,7 +5,7 @@ Major and recurring characters in Asimov's Robots, Empire, and Foundation univer
 
 ## Robot Era
 
-- **Elijah Baley**: Earth detective, featured in Robot novels. *Active c. 3500–3537 C.E.; died 3537 C.E.*
+- **Elijah Baley**: Earth detective, featured in Robot novels. *Active c. 3500–3537 C.E.; born 3459 C.E.; died 3537 C.E.*
 - **Dr. Han Fastolfe**: Spacer roboticist and leader. *Active c. 3500–3700 C.E.; died 3700 C.E.*
 - **Dr. Kelden Amadiro**: Spacer antagonist. *Active c. 3500–3700 C.E.*
 - **Dr. Susan Calvin**: Robopsychologist, central to "I, Robot". *Born 1982 C.E., died 2064 C.E.*
