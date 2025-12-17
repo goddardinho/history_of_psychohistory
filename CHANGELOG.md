@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v1.0.3] - 2025-12-17
+
+- Added consistent cross-references to all major reference files:
+    - `key-characters.md`, `psychohistory-timeline.md`, `world-settlement-locations.md`, and `asimov-timeline.md` now each link to the other reference files for improved navigation.
+- Updated cross-reference sections at the end of each file for clarity and completeness.
+
 ## [v1.0.2] - 2025-12-17
 
 - Added `psychohistory-timeline.md` to the Contents section of the README for improved navigation and documentation.
