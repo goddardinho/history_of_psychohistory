@@ -17,8 +17,10 @@
 - **3500 C.E. (3500 C.E.)** R. Daneel Olivaw & Elijah Baley solve crime. **Source:** [*The Caves of Steel* (1954)](https://www.amazon.com/dp/0553293400)
 - **3501 C.E. (3501 C.E.)** Elijah Baley & R. Daneel Olivaw investigate on Solaria. **Source:** [*The Naked Sun* (1957)](https://www.amazon.com/dp/0553293397)
 - **3503 C.E. (3503 C.E.)** Elijah Baley, R. Daneel Olivaw, R. Giskard Reventlov on Aurora. **Source:** [*The Robots of Dawn* (1983)](https://www.amazon.com/dp/0553381660)
+- **3503 C.E. (3503 C.E.)** Dr. Han Fastolfe first uses the term "psychohistory" in conversation. **Source:** [*The Robots of Dawn* (1983)](https://www.amazon.com/dp/0553381660)
 - **3537 C.E. (3537 C.E.)** Death of Elijah Baley. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
 - **3697 C.E. (3697 C.E.)** Dr. Kelden Amadiro plants nuclear amplifiers. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
+- **c. 3697–3700 C.E.** R. Giskard Reventlov begins to consider the Zeroth Law of Robotics, culminating in its full articulation at his destruction. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
 - **3700 C.E. (3700 C.E.)** Death of Dr. Han Fastolfe; Zeroth Law; Earth made radioactive; Diaspora begins. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
 
 ## Empire Era
