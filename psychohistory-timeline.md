@@ -8,8 +8,14 @@
 
 - **1949 C.E. (1949 C.E.)** Joseph Schwartz disappears from Earth. **Source:** [*Pebble in the Sky* (1950)](https://www.amazon.com/dp/0765319175)
 - **1982 C.E. (1982 C.E.)** Susan Calvin born; U.S. Robots founded. **Source:** [*I, Robot* (1950)](https://www.amazon.com/dp/055338256X)
+- **2005 C.E. (2005 C.E.)** Andrew Martin activated as a household robot by the Martin family. **Source:** [*The Bicentennial Man* (1976)](https://www.amazon.com/dp/055338256X)
 - **2007 C.E. (2007 C.E.)** Susan Calvin joins U.S. Robots. **Source:** [*I, Robot* (1950)](https://www.amazon.com/dp/055338256X)
+- **2007-2008 C.E. (Speculative)** First mind-reading robot RB-34 "Herbie" activated and destroyed. **Source:** [*I, Robot* (1950)](https://www.amazon.com/dp/055338256X)
+- **2020–2205 C.E.** Andrew Martin pursues legal and physical recognition as human, gradually acquiring rights and modifying himself. **Source:** [*The Bicentennial Man* (1976)], [*The Positronic Man* (1992)]
 - **2064 C.E. (2064 C.E.)** Death of Susan Calvin; colonization begins. **Source:** [*I, Robot* (1950)](https://www.amazon.com/dp/055338256X), [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
+- **2082 C.E. (Speculative)** Stephen Byerly’s political career begins (shortly after Dr. Susan Calvin’s death). **Source:** [*I, Robot* (1950), "Evidence"](https://www.amazon.com/dp/055338256X)
+- **2102 C.E. (Speculative)** Stephen Byerly serves as World Coordinator, overseeing the Machines. **Source:** [*I, Robot* (1950), "The Evitable Conflict"](https://www.amazon.com/dp/055338256X)
+- **2205 C.E. (2205 C.E.)** Andrew Martin declared human and dies, fulfilling his quest for humanity. **Source:** [*The Bicentennial Man* (1976)], [*The Positronic Man* (1992)]
 - **3200-25066 C.E.** R. Daneel Olivaw active. *Speculative summary for character context.*
 - **3200 C.E. (3200 C.E.)** Solaria settled; R. Daneel Olivaw created. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
 - **3459 C.E. (3459 C.E.)** Elijah Baley born (inferred). **Source:** [*The Naked Sun* (1957)](https://www.amazon.com/dp/0553293397)
@@ -20,8 +26,8 @@
 - **3537 C.E. (3537 C.E.)** Death of Elijah Baley. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
 - **3695 C.E. (3695 C.E.)** Death of Dr. Han Fastolfe. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
 - **3695–3697 C.E.** R. Giskard Reventlov begins to consider the Zeroth Law of Robotics, culminating in its full articulation at <details style="display:inline;"><summary>click to reveal (spoiler)</summary>his destruction</details>. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
-- **3697 C.E. (3697 C.E.)** Dr. Kelden Amadiro plants nuclear amplifiers. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
-- **3700 C.E. (3700 C.E.)** <details style="display:inline;"><summary>click to reveal (spoiler)</summary>Earth made radioactive</details>; Diaspora begins. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
+- **3697 C.E. (3697 C.E.)** Dr. Levular Mandamus, under Amadiro’s direction, plants nuclear amplifiers <details style="display:inline;"><summary>click to reveal (spoiler)</summary>on Earth</details> as part of the sabotage plan. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
+- **3700 C.E. (3700 C.E.)** <details style="display:inline;"><summary>click to reveal (spoiler)</summary>Earth</details> made radioactive</details>; Diaspora begins. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
 
 ### Caliban Trilogy Events (Extrapolated)
 
