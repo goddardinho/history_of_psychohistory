@@ -18,9 +18,10 @@
 - **3503 C.E. (3503 C.E.)** Elijah Baley, R. Daneel Olivaw, R. Giskard Reventlov on Aurora. **Source:** [*The Robots of Dawn* (1983)](https://www.amazon.com/dp/0553381660)
 - **3503 C.E. (3503 C.E.)** Dr. Han Fastolfe first uses the term "psychohistory" in conversation. **Source:** [*The Robots of Dawn* (1983)](https://www.amazon.com/dp/0553381660)
 - **3537 C.E. (3537 C.E.)** Death of Elijah Baley. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
+- **3695 C.E. (3695 C.E.)** Death of Dr. Han Fastolfe. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
+- **3695–3697 C.E.** R. Giskard Reventlov begins to consider the Zeroth Law of Robotics, culminating in its full articulation at <details style="display:inline;"><summary>click to reveal (spoiler)</summary>his destruction</details>. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
 - **3697 C.E. (3697 C.E.)** Dr. Kelden Amadiro plants nuclear amplifiers. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
-- **3697–3700 C.E.** R. Giskard Reventlov begins to consider the Zeroth Law of Robotics, culminating in its full articulation at <details style="display:inline;"><summary>click to reveal (spoiler)</summary>his destruction</details>. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
-- **3700 C.E. (3700 C.E.)** Death of Dr. Han Fastolfe; Zeroth Law; <details style="display:inline;"><summary>click to reveal (spoiler)</summary>Earth made radioactive</details>; Diaspora begins. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
+- **3700 C.E. (3700 C.E.)** <details style="display:inline;"><summary>click to reveal (spoiler)</summary>Earth made radioactive</details>; Diaspora begins. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
 
 ### Caliban Trilogy Events (Extrapolated)
 
