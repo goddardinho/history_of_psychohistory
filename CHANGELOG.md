@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v1.0.4] - 2026-01-08
+
+- Added Dr. Levular Mandamus to `key-characters.md` with description and timeline context from Robots and Empire.
+- Added Dr. Levular Mandamus's role in planting nuclear amplifiers to `psychohistory-timeline.md` (3697 C.E.).
+- Added major events for Stephen Byerly, Andrew Martin, and RB-34 "Herbie" to `psychohistory-timeline.md` with sources and estimated dates.
+- Updated `key-characters.md` and `psychohistory-timeline.md` for accuracy and completeness regarding these characters and their roles in the timeline.
+
 ## [v1.0.3] - 2025-12-17
 
 - Added consistent cross-references to all major reference files:

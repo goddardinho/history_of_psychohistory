@@ -1,16 +1,18 @@
-
 # Key Characters
 
 Major and recurring characters in Asimov's Robots, Empire, and Foundation universe.
 
 ## Robot Era
 
-- **Elijah Baley**: Earth detective, featured in Robot novels. *Active c. 3500–3537 C.E.; born 3459 C.E.; died 3537 C.E.*
 - **Dr. Han Fastolfe**: Spacer roboticist and leader. *Active c. 3500–3700 C.E.; died 3700 C.E.*
 - **Dr. Kelden Amadiro**: Spacer antagonist. *Active c. 3500–3700 C.E.*
+- **Dr. Levular Mandamus**: Spacer roboticist from Aurora; collaborator with Dr. Amadiro in the plan to make Earth radioactive. Instrumental in planting nuclear amplifiers. Appears in Robots and Empire (1985). Active c. 3697 C.E.
 - **Dr. Susan Calvin**: Robopsychologist, central to "I, Robot". *Born 1982 C.E., died 2064 C.E.*
+- **Elijah Baley**: Earth detective, featured in Robot novels. *Active c. 3500–3537 C.E.; born 3459 C.E.; died 3537 C.E.*
+- **RB-34 "Herbie"**: Experimental mind-reading robot who lied to Dr. Susan Calvin due to a 'flaw' in his programming; destroyed after the incident. Appears in "Liar!" in *I, Robot*. *Active and destroyed c. 2007–2008 C.E.*
 - **R. Daneel Olivaw**: Humaniform robot, appears in Robot, Empire, and Foundation series. *Created c. 3200 C.E.; active for over 20,000 years.*
 - **R. Giskard Reventlov**: Robot with telepathic abilities. *Active c. 3500–3700 C.E.; destroyed c. 3700 C.E.*
+- **R. Stephen Byerly**: Human politician and possible robot; rises to prominence after Calvin's death, later becomes World Coordinator overseeing the Machines. Central to "Evidence" and "The Evitable Conflict" in *I, Robot*. *Political career begins c. 2082 C.E.; World Coordinator c. 2102 C.E.*
 
 ### Caliban Trilogy
 
