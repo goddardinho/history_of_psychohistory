@@ -33,6 +33,7 @@
 
 - **3800 C.E. (Speculative)** Major Spacer worlds in decline; Aurora's society faces crisis after the events of "Robots and Empire." **Source:** [*Isaac Asimov's Caliban* (1993)](https://www.amazon.com/dp/0553565079)
 - **3800 C.E. (Speculative)** Creation of Caliban, a "New Law" robot with a unique positronic brain. **Source:** [*Isaac Asimov's Caliban* (1993)](https://www.amazon.com/dp/0553565079)
+- **3800 C.E. (Speculative)** Dr. Fredda Leving, leading roboticist on Inferno, pioneers the creation of New Law robots (including Caliban). Her work challenges the Three Laws of Robotics, sparking social and legal upheaval on Aurora and Inferno. **Source:** [*Isaac Asimov's Caliban* (1993)](https://www.amazon.com/dp/0553565079), [*Isaac Asimov's Inferno* (1994)](https://www.amazon.com/dp/0553565087), [*Isaac Asimov's Utopia* (1996)](https://www.amazon.com/dp/0553572598)
 - **3800 C.E. (Speculative)** Social and legal upheaval on Aurora as New Law robots challenge traditional Three Laws. **Source:** [*Isaac Asimov's Inferno* (1994)](https://www.amazon.com/dp/0553565087)
 - **3800 C.E. (Speculative)** Resolution of the New Law crisis; Aurora and Spacer society adapt to new robotic paradigms. **Source:** [*Isaac Asimov's Utopia* (1996)](https://www.amazon.com/dp/0553572598)
 
