@@ -1,5 +1,13 @@
 # Changelog
 
+## [v1.0.5] - 2026-03-02
+
+- Updated Caliban Trilogy entries in `key-characters.md` and `psychohistory-timeline.md`:
+    - Corrected governor names: Julius Chanto Grieg (start of trilogy), Alvar Kresh (end of trilogy).
+    - Changed Tonya Leving to Tonya Welton and clarified her role as a key Settler political leader.
+    - Improved descriptions for Alvar Kresh, Julius Chanto Grieg, and Tonya Welton for accuracy and context.
+    - Timeline events now reflect these corrections and clarifications.
+
 All notable changes to this project will be documented in this file.
 
 ## [v1.0.4] - 2026-01-08
