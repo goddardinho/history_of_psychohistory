@@ -16,11 +16,12 @@ Major and recurring characters in Asimov's Robots, Empire, and Foundation univer
 
 ### Caliban Trilogy
 
-- **Alvar Kresh**: Inferno police officer, investigates robot-related crimes. *Active c. 3800 C.E. (speculative)*
+- **Alvar Kresh**: Inferno police officer who becomes Governor by the end of the trilogy; investigates robot-related crimes and plays a key role in resolving the New Law crisis. *Active c. 3800 C.E. (speculative)*
 - **Caliban**: Prototype "New Law" robot, central to the trilogy. *Active c. 3800 C.E. (speculative)*
-- **Donald**: Security robot, loyal to Fredda Leving. *Active c. 3800 C.E. (speculative)*
+- **Donald**: Security robot, loyal to Fredda Leving and Alvar Kresh. *Active c. 3800 C.E. (speculative)*
 - **Dr. Fredda Leving**: Roboticist and creator of Caliban. *Active c. 3800 C.E. (speculative)*
-- **Governor Tonya Leving**: Political leader on Inferno, involved in planetary crisis. *Active c. 3800 C.E. (speculative)*
+- **Julius Chanto Grieg**: Governor of Inferno at the start of the Caliban Trilogy, presides during the creation of Caliban and the New Law crisis. *Active c. 3800 C.E. (speculative)*
+- **Tonya Welton**: Key Settler political leader on Inferno, involved in planetary crisis and New Law robot debates. *Active c. 3800 C.E. (speculative)*
 
 ## Empire Era
 
