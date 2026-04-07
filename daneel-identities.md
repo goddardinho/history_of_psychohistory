@@ -14,7 +14,6 @@ This file tracks the various identities and locations of R. Daneel Olivaw throug
 | [Second Foundation](https://en.wikipedia.org/wiki/Second_Foundation)         | (Implied: Eto Demerzel)  | Trantor                    | 24827-24877 C.E.       | Possible involvement (inferred) |
 | [Foundation's Edge](https://en.wikipedia.org/wiki/Foundation%27s_Edge)         | D.G. Golan (as "Daneel") | Comporellon, Gaia, Sol, Trantor | 24943-25065 C.E.       | Reveals true nature to Golan Trevize |
 | [Foundation and Earth](https://en.wikipedia.org/wiki/Foundation_and_Earth)      | R. Daneel Olivaw         | Sol, Earth, Moon           | 25066 C.E.             | Final mission; merges with Voltaire and Calvinian robots |
-| [The Stars, Like Dust](https://en.wikipedia.org/wiki/The_Stars,_Like_Dust) (fan speculation) | Sander Jonti (speculative) | Nebula Kingdoms, Rhodia   | (Speculative, ~11000-12000 C.E.) | Some fans speculate Jonti is Daneel; no canonical or textual evidence supports this theory |
 
 *This table includes both canonically specified and inferred identities/locations for R. Daneel Olivaw. Some entries are based on strong textual implication rather than explicit statement.*
 
