@@ -49,6 +49,7 @@ A reference guide to major worlds, settlements, and planetary locations in Asimo
 - For character details, see [Key Characters](./key-characters.md).
 - For chronological context, see [Psychohistory Timeline](./psychohistory-timeline.md).
 - For a publication and fictional order list, see [Asimov Timeline](./asimov-timeline.md).
+- For detailed tracking of R. Daneel Olivaw's identities across eras, see [Daneel's Identities and Locations](./daneel-identities.md).
 
 ## Notes
 

@@ -2,6 +2,12 @@
 
 This file tracks the various identities and locations of R. Daneel Olivaw throughout the psychohistory timeline.
 
+## Overview
+
+R. Daneel Olivaw is a central figure across the entire Robot, Empire, and Foundation timeline. This document provides detailed tracking of his identities and locations as they appear in various works, organized chronologically by fictional date.
+
+For more information about Daneel as a character, see [Key Characters](./key-characters.md). For overall timeline context, see [Psychohistory Timeline](./psychohistory-timeline.md).
+
 | Era / Book                | Identity / Alias         | Location(s)                | Date(s) (Galactic Era) | Notes |
 |---------------------------|--------------------------|----------------------------|------------------------|-------|
 | [The Caves of Steel](https://en.wikipedia.org/wiki/The_Caves_of_Steel)        | R. Daneel Olivaw         | Earth (New York)           | 3500-3537 C.E.         | First appearance; partner to Elijah Baley |
@@ -18,3 +24,10 @@ This file tracks the various identities and locations of R. Daneel Olivaw throug
 *This table includes both canonically specified and inferred identities/locations for R. Daneel Olivaw. Some entries are based on strong textual implication rather than explicit statement.*
 
 *All dates are now in C.E. and fully aligned with the canonical chronology in psychohistory-timeline.md. Add new entries as more information is discovered or clarified.*
+
+## Cross-References
+
+- For character overview, see [Key Characters](./key-characters.md).
+- For chronological context, see [Psychohistory Timeline](./psychohistory-timeline.md).
+- For world and location details, see [World Settlement & Locations](./world-settlement-locations.md).
+- For publication and fictional order, see [Asimov Timeline](./asimov-timeline.md).

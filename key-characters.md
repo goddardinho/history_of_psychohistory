@@ -25,7 +25,7 @@ Major and recurring characters in Asimov's Robots, Empire, and Foundation univer
 
 ## Empire Era
 
-- **Artagail**: Key figure in "The Currents of Space". *Active c. 11,300–12,000 C.E.*
+- **Rik**: Protagonist of "The Currents of Space". *Active c. 11,300–12,000 C.E.*
 - **Biron Farrill**: Protagonist in "The Stars, Like Dust". *Active c. 12,300 C.E.*
 - **Joseph Schwartz**: Main character in "Pebble in the Sky". *Active c. 12,500 C.E.*
 
@@ -58,6 +58,7 @@ Major and recurring characters in Asimov's Robots, Empire, and Foundation univer
 - For world and location details, see [World Settlement & Locations](./world-settlement-locations.md).
 - For chronological context, see [Psychohistory Timeline](./psychohistory-timeline.md).
 - For a publication and fictional order list, see [Asimov Timeline](./asimov-timeline.md).
+- For detailed tracking of R. Daneel Olivaw's identities across eras, see [Daneel's Identities and Locations](./daneel-identities.md).
 
 ## Notes
 

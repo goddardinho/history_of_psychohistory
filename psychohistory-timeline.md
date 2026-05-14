@@ -8,14 +8,14 @@
 
 - **1949 C.E. (1949 C.E.)** Joseph Schwartz disappears from Earth. **Source:** [*Pebble in the Sky* (1950)](https://www.amazon.com/dp/0765319175)
 - **1982 C.E. (1982 C.E.)** Susan Calvin born; U.S. Robots founded. **Source:** [*I, Robot* (1950)](https://www.amazon.com/dp/055338256X)
-- **2005 C.E. (2005 C.E.)** Andrew Martin activated as a household robot by the Martin family. **Source:** [*The Bicentennial Man* (1976)](https://www.amazon.com/dp/055338256X)
+- **2005 C.E. (2005 C.E.)** Andrew Martin activated as a household robot by the Martin family. **Source:** [*The Bicentennial Man* (1976)](https://www.amazon.com/dp/055318395X)
 - **2007 C.E. (2007 C.E.)** Susan Calvin joins U.S. Robots. **Source:** [*I, Robot* (1950)](https://www.amazon.com/dp/055338256X)
 - **2007-2008 C.E. (Speculative)** First mind-reading robot RB-34 "Herbie" activated and destroyed. **Source:** [*I, Robot* (1950)](https://www.amazon.com/dp/055338256X)
-- **2020–2205 C.E.** Andrew Martin pursues legal and physical recognition as human, gradually acquiring rights and modifying himself. **Source:** [*The Bicentennial Man* (1976)], [*The Positronic Man* (1992)]
+- **2020–2205 C.E.** Andrew Martin pursues legal and physical recognition as human, gradually acquiring rights and modifying himself. **Source:** [*The Bicentennial Man* (1976)](https://www.amazon.com/dp/055318395X), [*The Positronic Man* (1992)](https://www.amazon.com/dp/0553573268)
 - **2064 C.E. (2064 C.E.)** Death of Susan Calvin; colonization begins. **Source:** [*I, Robot* (1950)](https://www.amazon.com/dp/055338256X), [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
 - **2082 C.E. (Speculative)** Stephen Byerly’s political career begins (shortly after Dr. Susan Calvin’s death). **Source:** [*I, Robot* (1950), "Evidence"](https://www.amazon.com/dp/055338256X)
 - **2102 C.E. (Speculative)** Stephen Byerly serves as World Coordinator, overseeing the Machines. **Source:** [*I, Robot* (1950), "The Evitable Conflict"](https://www.amazon.com/dp/055338256X)
-- **2205 C.E. (2205 C.E.)** Andrew Martin declared human and dies, fulfilling his quest for humanity. **Source:** [*The Bicentennial Man* (1976)], [*The Positronic Man* (1992)]
+- **2205 C.E. (2205 C.E.)** Andrew Martin declared human and dies, fulfilling his quest for humanity. **Source:** [*The Bicentennial Man* (1976)](https://www.amazon.com/dp/055318395X), [*The Positronic Man* (1992)](https://www.amazon.com/dp/0553573268)
 - **3200-25066 C.E.** R. Daneel Olivaw active. *Speculative summary for character context.*
 - **3200 C.E. (3200 C.E.)** Solaria settled; R. Daneel Olivaw created. **Source:** [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
 - **3459 C.E. (3459 C.E.)** Elijah Baley born (inferred). **Source:** [*The Naked Sun* (1957)](https://www.amazon.com/dp/0553293397)
@@ -41,7 +41,7 @@
 
 ## Empire Era
 
-- **11300–12,000 C.E.** Artagail active. *Speculative summary for character context.*
+- **11300–12,000 C.E.** Rik active. *Speculative summary for character context.*
 - **11300 C.E. (11300 C.E.)** Rhodia & Nebular Kingdoms free; Encoding Laws. **Source:** [*The Stars, Like Dust* (1951)](https://www.amazon.com/dp/0765319191), [*The Currents of Space* (1952)](https://www.amazon.com/dp/0765319183)
 - **12000 C.E. (12000 C.E.)** Trantorian Republic → Empire. **Source:** [*The Currents of Space* (1952)](https://www.amazon.com/dp/0765319183), [*Robots and Empire* (1985)](https://www.amazon.com/dp/0553587579)
 - **12300 C.E.** Biron Farrill active. *Speculative event for character context.*
@@ -82,3 +82,4 @@
 - For character details, see [Key Characters](./key-characters.md).
 - For world and location details, see [World Settlement & Locations](./world-settlement-locations.md).
 - For a publication and fictional order list, see [Asimov Timeline](./asimov-timeline.md).
+- For detailed tracking of R. Daneel Olivaw's identities across eras, see [Daneel's Identities and Locations](./daneel-identities.md).
