@@ -10,6 +10,8 @@ This timeline presents the major works of Isaac Asimov and authorized continuati
 - **"Robbie"** (Short Story, 1940)
 - **"Runaround"** (Short Story, 1942)
 - [**I, Robot** (Short Story Collection, 1950)](https://www.amazon.com/dp/055338256X)
+- [**The Bicentennial Man** (1976)](https://www.amazon.com/dp/055318395X)
+- [**The Positronic Man** by Isaac Asimov & Robert Silverberg (1992)](https://www.amazon.com/dp/0553573268)
 - [**The Caves of Steel** (1954)](https://www.amazon.com/dp/0553293400)
 - [**The Naked Sun** (1957)](https://www.amazon.com/dp/0553293397)
 - [**The Robots of Dawn** (1983)](https://www.amazon.com/dp/0553381660)
@@ -62,6 +64,7 @@ This timeline presents the major works of Isaac Asimov and authorized continuati
 - "Foundation and Earth" and the prequels tie together the entire chronology.
 - The Second Foundation Trilogy is authorized by the Asimov estate and expands on the prequel era.
 - "Psychohistorical Crisis" is not officially part of the canon but is widely regarded as a spiritual successor.
+- R. Daneel Olivaw appears throughout these works with different identities—see [Daneel's Identities and Locations](./daneel-identities.md) for detailed tracking.
 
 ---
 
@@ -70,3 +73,4 @@ This timeline presents the major works of Isaac Asimov and authorized continuati
 - For character details, see [Key Characters](./key-characters.md).
 - For world and location details, see [World Settlement & Locations](./world-settlement-locations.md).
 - For chronological context, see [Psychohistory Timeline](./psychohistory-timeline.md).
+- For detailed tracking of R. Daneel Olivaw's identities across eras, see [Daneel's Identities and Locations](./daneel-identities.md).
