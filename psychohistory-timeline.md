@@ -55,23 +55,26 @@
 - **24500–24570 C.E.** Dors Venabili and Yugo Amaryl active. *Speculative summary for character context.*
 - **24505 C.E. (11995 G.E.)** Lodovik Trema's positronic brain is altered, setting off a chain of events that will affect the fate of the galaxy. **Source:** [*Foundation's Fear* (1997)](https://www.amazon.com/dp/0061056383)
 - **24510 C.E. (12010 G.E.)** Cleon I becomes Emperor. **Source:** [*Prelude to Foundation* (1988)](https://www.amazon.com/dp/0553278398)
-- **24515 C.E. (12015 G.E.)** Jo-Jo Joranum's political movement challenges Seldon's psychohistory project. **Source:** [*Foundation and Chaos* (1998)](https://www.amazon.com/dp/0061056383)
-- **24520 C.E. (12020 G.E.)** Seldon lectures; psychohistory begins. **Source:** [*Prelude to Foundation* (1988)](https://www.amazon.com/dp/0553278398)
-- **24525 C.E. (12025 G.E.)** Dors Venabili's true nature and mission are revealed. **Source:** [*Foundation's Fear* (1997)](https://www.amazon.com/dp/0061056383)
+- **24515 C.E. (12015 G.E.)** Hari Seldon's political conflict with Jo-Jo Joranum challenges the psychohistory project. **Key characters:** Hari Seldon, Jo-Jo Joranum. **Source:** [*Foundation and Chaos* (1998)](https://www.amazon.com/dp/0061056383)
+- **24520 C.E. (12020 G.E.)** Hari Seldon presents his first paper on psychohistory at a mathematics convention. Across the *Prelude to Foundation* and *Forward the Foundation* storyline (24520–24570 C.E.), he appears in person with key figures including Cleon I, Eto Demerzel, Chetter Hummin, Dors Venabili, Yugo Amaryl, Raych, and Wanda. These are encounters across the prequel stories, not attendees at a single lecture. **Source:** [*Prelude to Foundation* (1988)](https://www.amazon.com/dp/0553278398), [*Forward the Foundation* (1993)](https://www.amazon.com/dp/0553565079)
+- **24525 C.E. (12025 G.E.)** Hari Seldon learns the truth about Dors Venabili's nature and mission. **Key characters present:** Hari Seldon, Dors Venabili. **Source:** [*Foundation's Fear* (1997)](https://www.amazon.com/dp/0061056383)
 - **24540 C.E. (12040 G.E.)** Birth of Wanda Seldon. **Source:** [*Forward the Foundation* (1993)](https://www.amazon.com/dp/0553565079)
 - **24552 C.E. (12052 G.E.)** Birth of Bellis Seldon. **Source:** [*Forward the Foundation* (1993)](https://www.amazon.com/dp/0553565079)
-- **24567 C.E. (12067 G.E. / 1 F.E.)** Seldon exiled; Foundation Calendar begins. **Source:** [*Foundation* (1951)](https://www.amazon.com/dp/0553293350)
+- **24567 C.E. (12067 G.E. / 1 F.E.)** Hari Seldon appears at his trial with Gaal Dornick before the Commission of Public Safety, led by Linge Chen, and is exiled to Terminus; the Foundation calendar begins. **Key characters present:** Hari Seldon, Gaal Dornick, Linge Chen. **Source:** [*Foundation* (1951)](https://www.amazon.com/dp/0553293350)
 - **24570 C.E. (3 F.E.)** Death of Hari Seldon. **Source:** [*Foundation* (1951)](https://www.amazon.com/dp/0553293350), [*Forward the Foundation* (1993)](https://www.amazon.com/dp/0553565079)
 - **24600 C.E. (36 F.E.)** Lodovik Trema and Daneel Olivaw's secret manipulations shape the future of the Foundation. **Source:** [*Foundation's Triumph* (1999)](https://www.amazon.com/dp/0061056391)
-- **24617 C.E. (50 F.E.)** Anacreon independence; Seldon hologram. **Source:** [*Foundation* (1951)](https://www.amazon.com/dp/0553293350)
+- **24617 C.E. (50 F.E.)** At the first Seldon Crisis, a recorded Hari Seldon hologram appears before Salvor Hardin, Lewis Pirenne, and the Foundation's Board of Trustees as Anacreon challenges Terminus. **Key characters present:** Salvor Hardin, Lewis Pirenne, Foundation Board. **Source:** [*Foundation* (1951)](https://www.amazon.com/dp/0553293350)
+- **24647 C.E. (80 F.E.)** After the second Seldon Crisis, Hari Seldon's recorded hologram appears in the Time Vault and warns that Scientism can defend the Foundation but cannot support its future expansion. **Key characters present:** Salvor Hardin and Foundation leadership; the available summary does not enumerate the full audience. **Source:** [*Foundation* (1951)](https://www.amazon.com/dp/0553293350)
+- **24727 C.E. (160 F.E.)** Following the Foundation's victory over Korell and transition toward expansion by trade, another Hari Seldon Time Vault message confirms the outcome of the crisis. **Key characters present:** Foundation leadership; individual viewers are not identified in the available summary. **Source:** [*Foundation* (1951)](https://www.amazon.com/dp/0553293350)
 - **24762 C.E. (195 F.E.)** Bel Riose campaign; fleet recalled. **Source:** [*Foundation and Empire* (1952)](https://www.amazon.com/dp/0553293377)
 - **24827 C.E. (260 F.E.)** Gilmer sacks Trantor; peace treaty. **Source:** [*Second Foundation* (1953)](https://www.amazon.com/dp/0553293369)
-- **24867–24,877 C.E.** The Mule active; dies 24,877 C.E. *Speculative summary for character context.*
-- **24867 C.E. (300 F.E.)** The Mule conquers Foundation. **Source:** [*Foundation and Empire* (1952)](https://www.amazon.com/dp/0553293377)
+- **24867–24877 C.E.** The Mule active; dies 24,877 C.E. *Speculative summary for character context.*
+- **24867 C.E. (300 F.E.)** During the Mule's conquest, Foundation officials expect Hari Seldon's scheduled hologram to explain the crisis. Instead, it describes the predicted revolt of the Independent Traders, not the Mule's invasion; the message is cut short when Terminus loses power. **Key characters present:** Foundation leadership under Mayor Indbur III; individual viewers are not enumerated. **Source:** [*Foundation and Empire* (1952)](https://www.amazon.com/dp/0553293377)
 - **24872 C.E. (305 F.E.)** Mule’s mind<details style="display:inline;"><summary>click to reveal (spoiler)</summary>altered</details>by Preem Palver; conquest ends. **Source:** [*Second Foundation* (1953)](https://www.amazon.com/dp/0553293369)
 - **24877 C.E. (310 F.E.)** Death of the Mule. **Source:** [*Second Foundation* (1953)](https://www.amazon.com/dp/0553293369)
 - **24943 C.E. (376 F.E.)** Search for Second Foundation; Gaia overmind. **Source:** [*Foundation's Edge* (1982)](https://www.amazon.com/dp/0553272659)
 - **25065–25066 C.E.** Golan Trevize active. *Speculative summary for character context.*
+- **25065 C.E. (498 F.E.)** At the Foundation's quincentennial-era celebration, a recorded Hari Seldon hologram appears before Mayor Harla Branno and the Foundation Council. Later that day, Trevize challenges Branno's policies and is sent to investigate the Second Foundation. **Key characters present:** Harla Branno; the Council audience is not individually enumerated. **Source:** [*Foundation's Edge* (1982)](https://www.amazon.com/dp/0553272659)
 - **25065 C.E. (498 F.E.)** Trevize chooses <details style="display:inline;"><summary>click to reveal (spoiler)</summary>Galaxia</details>. **Source:** [*Foundation's Edge* (1982)](https://www.amazon.com/dp/0553272659)
 - **25066 C.E. (499 F.E.)** Solaria discovered abandoned by humans; only robots and a few genetically modified Solarians remain. **Source:** [*Foundation and Earth* (1986)](https://www.amazon.com/dp/0553587579)
 - **25066 C.E. (499 F.E.)** Trevize locates Earth; meets Daneel Olivaw. **Source:** [*Foundation and Earth* (1986)](https://www.amazon.com/dp/0553587579)
@@ -79,6 +82,7 @@
 
 ## Cross-References
 
+- For a vertical visual overview of key events and Daneel Olivaw appearances, see [Psychohistory Timeline Diagram](./psychohistory-timeline-diagram.md).
 - For character details, see [Key Characters](./key-characters.md).
 - For world and location details, see [World Settlement & Locations](./world-settlement-locations.md).
 - For a publication and fictional order list, see [Asimov Timeline](./asimov-timeline.md).
