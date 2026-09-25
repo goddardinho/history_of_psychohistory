@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file.
 
+## [Unreleased]
+
+- Added dated Hari Seldon appearances and key character encounters, including later Time Vault holograms, to the contextual timeline and Mermaid diagram.
+- Added a standalone Mermaid timeline diagram showing key events and Daneel Olivaw appearances, linked from the related reference documents.
+- Added `character-relationships.md` for supporting characters and their connections to major characters across key story arcs.
+- Linked the new relationship reference from the README and `key-characters.md`.
+
+## [v1.2.0] - 2026-05-14
+
+- Corrected the Empire-era character entry from Artagail to Rik in `key-characters.md` and `psychohistory-timeline.md`.
+- Added *The Bicentennial Man* and *The Positronic Man* to `asimov-timeline.md`; corrected and completed related source links in `psychohistory-timeline.md`.
+- Expanded `daneel-identities.md` with an overview, aligned dates to C.E., and added cross-references across the reference documents.
+- Updated the README and reference-file navigation for Daneel's identity timeline.
+
+## [v1.1.0] - 2026-04-07
+
+- Added `daneel-identities.md` to track R. Daneel Olivaw's identities and locations across the series.
+- Aligned Daneel identity dates with the C.E. chronology and `psychohistory-timeline.md`.
+- Removed the unsupported speculative identification of Sander Jonti as Daneel Olivaw.
+
 ## [v1.0.5] - 2026-03-02
 
 - Corrected Caliban Trilogy entries in `key-characters.md` and `psychohistory-timeline.md`:

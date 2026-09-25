@@ -4,14 +4,14 @@ Major and recurring characters in Asimov's Robots, Empire, and Foundation univer
 
 ## Robot Era
 
-- **Dr. Han Fastolfe**: Spacer roboticist and leader. *Active c. 3500–3700 C.E.; died 3700 C.E.*
-- **Dr. Kelden Amadiro**: Spacer antagonist. *Active c. 3500–3700 C.E.*
+- **Dr. Han Fastolfe**: Spacer roboticist and leader. *Active by 3503 C.E.; died 3695 C.E.*
+- **Dr. Kelden Amadiro**: Spacer antagonist and Dr. Mandamus's superior in the Earth sabotage plan. *Active by c. 3697 C.E.*
 - **Dr. Levular Mandamus**: Spacer roboticist from Aurora; collaborator with Dr. Amadiro in the plan to make Earth radioactive. Instrumental in planting nuclear amplifiers. Appears in Robots and Empire (1985). Active c. 3697 C.E.
 - **Dr. Susan Calvin**: Robopsychologist, central to "I, Robot". *Born 1982 C.E., died 2064 C.E.*
 - **Elijah Baley**: Earth detective, featured in Robot novels. *Active c. 3500–3537 C.E.; born 3459 C.E.; died 3537 C.E.*
 - **RB-34 "Herbie"**: Experimental mind-reading robot who lied to Dr. Susan Calvin due to a 'flaw' in his programming; destroyed after the incident. Appears in "Liar!" in *I, Robot*. *Active and destroyed c. 2007–2008 C.E.*
 - **R. Daneel Olivaw**: Humaniform robot, appears in Robot, Empire, and Foundation series. *Created c. 3200 C.E.; active for over 20,000 years.*
-- **R. Giskard Reventlov**: Robot with telepathic abilities. *Active c. 3500–3700 C.E.; destroyed c. 3700 C.E.*
+- **R. Giskard Reventlov**: Robot with telepathic abilities. *Active by 3503 C.E.; destroyed c. 3695–3697 C.E.*
 - **R. Stephen Byerly**: Human politician and possible robot; rises to prominence after Calvin's death, later becomes World Coordinator overseeing the Machines. Central to "Evidence" and "The Evitable Conflict" in *I, Robot*. *Political career begins c. 2082 C.E.; World Coordinator c. 2102 C.E.*
 
 ### Caliban Trilogy
@@ -31,7 +31,7 @@ Major and recurring characters in Asimov's Robots, Empire, and Foundation univer
 
 ## Foundation Era
 
-- **Arkady Darell**: Granddaughter of Bayta, protagonist in "Second Foundation"; uncovers the location of the Second Foundation. *Active c. 24,927–24,943 C.E.*
+- **Arkady Darell**: Granddaughter of Bayta, protagonist in "Second Foundation"; uncovers the location of the Second Foundation. *Active by 24,943 C.E.*
 - **Bayta Darell**: Key figure in "Foundation and Empire"; helps defeat the Mule. *Active c. 24,867–24,877 C.E.*
 - **Bellis Seldon**: Descendant of Hari Seldon. *Born 24,552 C.E.*
 - **Cleon I**: Emperor during Seldon's time. *Born 24,488 C.E., became Emperor 24,510 C.E.*
@@ -44,17 +44,19 @@ Major and recurring characters in Asimov's Robots, Empire, and Foundation univer
 
 ### Second Foundation Trilogy
 
-- **Delora Delarmi**: Second Foundation leader. *Active c. 24,500–25,000 C.E. (speculative)*
+- **Delora Delarmi**: Second Foundation leader. *Active by c. 24,943 C.E. (speculative).*
 - **Dors Venabili**: (Expanded role) Protector of Hari Seldon, with deeper backstory in the trilogy.
-- **Emmanuel Goldstein**: (aka "Emm") Seldon's confidant and ally. *Active c. 24,500–24,570 C.E.*
+- **Emmanuel Goldstein**: (aka "Emm") Seldon's confidant and ally in the prequel-era stories.
 - **Hari Seldon**: (Expanded role) Psychohistorian, protagonist of the trilogy.
-- **Jo-Jo Joranum**: Political agitator and antagonist. *Active c. 24,500–24,570 C.E.*
-- **Lodovik Trema**: Robot with a damaged positronic brain, central to the trilogy. *Active c. 24,500–25,000 C.E. (speculative)*
-- **Preem Palver**: First Speaker of the Second Foundation, the telepath who ultimately alters the Mule's mind. *Active c. 24,800–24,877 C.E.*
-- **Stettin Palver**: Key Second Foundationer, telepath. *Active c. 24,500–25,000 C.E. (speculative)*
+- **Jo-Jo Joranum**: Political agitator and antagonist. *Active c. 24,515 C.E.*
+- **Lodovik Trema**: Robot with a damaged positronic brain, central to the trilogy. *Active c. 24,505–24,600 C.E. (authorized sequel chronology).*
+- **Preem Palver**: First Speaker of the Second Foundation, the telepath who ultimately alters the Mule's mind. *Active by 24,872 C.E.*
+- **Stettin Palver**: Key Second Foundationer and telepath.
 
 ## Cross-References
 
+- For a visual chronology of key events and Daneel Olivaw appearances, see [Psychohistory Timeline Diagram](./psychohistory-timeline-diagram.md).
+- For supporting characters and their relationships with major characters, see [Character Relationships](./character-relationships.md).
 - For world and location details, see [World Settlement & Locations](./world-settlement-locations.md).
 - For chronological context, see [Psychohistory Timeline](./psychohistory-timeline.md).
 - For a publication and fictional order list, see [Asimov Timeline](./asimov-timeline.md).

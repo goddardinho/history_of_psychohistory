@@ -46,6 +46,7 @@ A reference guide to major worlds, settlements, and planetary locations in Asimo
 
 ## Cross-References
 
+- For a visual chronology of key events and Daneel Olivaw appearances, see [Psychohistory Timeline Diagram](./psychohistory-timeline-diagram.md).
 - For character details, see [Key Characters](./key-characters.md).
 - For chronological context, see [Psychohistory Timeline](./psychohistory-timeline.md).
 - For a publication and fictional order list, see [Asimov Timeline](./asimov-timeline.md).

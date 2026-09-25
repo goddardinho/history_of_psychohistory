@@ -70,6 +70,7 @@ This timeline presents the major works of Isaac Asimov and authorized continuati
 
 ## Cross-References
 
+- For a visual chronology of key events and Daneel Olivaw appearances, see [Psychohistory Timeline Diagram](./psychohistory-timeline-diagram.md).
 - For character details, see [Key Characters](./key-characters.md).
 - For world and location details, see [World Settlement & Locations](./world-settlement-locations.md).
 - For chronological context, see [Psychohistory Timeline](./psychohistory-timeline.md).
